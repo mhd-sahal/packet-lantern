@@ -1,5 +1,7 @@
 # Packet Lantern: Network Traffic Triage Tool
 
+[🌐Live Demo: https://packet-lantern.vercel.app ](https://packet-lantern.vercel.app/) 
+
 A small, browser-based educational tool. You export a Wireshark packet list as CSV, open it here, and get a plain-English triage report showing which traffic patterns deserve a closer look and why.
 
 **Central lesson:** an anomaly is a starting point for investigation, not proof of compromise. Detection tells an analyst where to look. Investigation determines what actually happened.
